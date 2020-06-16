@@ -37,8 +37,8 @@
 35,Revenue Per Share (ttm),revenue-per-share
 36,Quarterly Revenue Growth (yoy),quarterly-revenue
 37,Gross Profit (ttm),gross-profit
-38,EBITDA,etbitda
-39,Net Income Avi to Common (ttm),netincome-avail-tocommon
+38,EBITDA,ebitda
+39,Net Income Avi to Common (ttm),netincome-avail-to-common
 40,Diluted EPS (ttm),diluted-eps
 41,Quarterly Earnings Growth (yoy),qtr-earnings-growth
 42,Total Cash (mrq),total-cash
