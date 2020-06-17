@@ -1,5 +1,5 @@
 
-Csv files from [here](https://www.sectorspdr.com/sectorspdr/sector/xlu/holdings).
+Csv files from [here](https://www.sectorspdr.com/sectorspdr/sectors).
 
 * [xlb - materials](https://www.sectorspdr.com/sectorspdr/sector/xlb/holdings)
 * [xlc - communication services](https://www.sectorspdr.com/sectorspdr/sector/xlc/holdings)
