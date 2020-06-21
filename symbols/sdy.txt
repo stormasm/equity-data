@@ -62,7 +62,7 @@ apd
 ful
 adp
 sjm
-jw.a
+jw-a
 rpm
 ppg
 es
@@ -101,7 +101,7 @@ rost
 ndsn
 awr
 ecl
-bf.b
+bf-b
 fele
 shw
 spgi
