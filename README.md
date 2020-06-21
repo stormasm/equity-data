@@ -13,6 +13,6 @@ Csv files from [here](https://www.sectorspdr.com/sectorspdr/sectors).
 * [xly - consumer discretionary](https://www.sectorspdr.com/sectorspdr/sector/xly/holdings)
 * [xlre - real estate](https://www.sectorspdr.com/sectorspdr/sector/xlre/holdings)
 
-### SDY
+#### SDY
 
-[etfchannel SDY Holdings ranked by weight and amount](https://www.etfchannel.com/lists/?a=stockholdings&symbol=SDY)
+* [etfchannel SDY holdings ranked by weight and amount](https://www.etfchannel.com/lists/?a=stockholdings&symbol=SDY)
