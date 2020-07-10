@@ -1,0 +1,90 @@
+Symbol,Company Name,Security Type,Security Price,Market Capitalization
+BTI,British American Tobacco PLC,Depository Receipt,37.05,$89.03B
+MMM,3M Co,Common Stock,151.45,$88.91B
+HDB,H D F C Bank Ltd,Depository Receipt,48.55,$88.88B
+SBUX,Starbucks Corp,Common Stock,73.57,$86.60B
+BLK,Blackrock Inc,Common Stock,549.44,$86.48B
+SNE,Sony Corp,Depository Receipt,71.53,$85.59B
+SPGI,S&P Global Inc,Common Stock,352.72,$85.36B
+FIS,Fidelity National Information Services Inc,Common Stock,135.79,$84.27B
+DEO,Diageo PLC,Depository Receipt,137.33,$82.67B
+CVS,CVS Health Corp,Common Stock,61.28,$82.40B
+DCUE,Dominion Energy Inc,Unit Trust Fund,96.5,$82.23B
+NOW,ServiceNow Inc,Common Stock,426.37,$81.09B
+INTU,Intuit Inc.,Common Stock,307.91,$80.93B
+TD,Toronto-Dominion Bank (The),Common Stock,43.23,$80.49B
+DTEGY,Deutsche Telekom AG,Depository Receipt,16.68,$80.11B
+BP,BP PLC,Depository Receipt,22.05,$77.96B
+MS,Morgan Stanley,Common Stock,47.51,$77.06B
+VRTX,Vertex Pharmaceuticals Inc,Common Stock,295.4,$76.67B
+LFC,China Life Insurance Co Ltd,Depository Receipt,13.24,$75.92B
+ZM,Zoom Video Communications Inc,Common Stock,269.52,$75.10B
+AXP,American Express Co,Common Stock,90.57,$74.78B
+MO,Altria Group Inc,Common Stock,38.6,$74.09B
+MDLZ,Mondelez International Inc,Common Stock,50.26,$73.14B
+KOF,Coca-Cola Femsa SAB De CV,Depository Receipt,42.44,$72.47B
+REGN,Regeneron Pharmaceuticals Inc,Common Stock,640.63,$71.84B
+CCI,Crown Castle International Corp,Common Stock (REIT),171.65,$71.48B
+PLD,Prologis Inc,Common Stock (REIT),96.57,$70.72B
+GS,Goldman Sachs Group Inc (The),Common Stock,196.83,$69.55B
+CAT,Caterpillar Inc,Common Stock,125.73,$69.44B
+BDX,Becton Dickinson and Co,Common Stock,258.61,$68.69B
+PTR,Petrochina Co Ltd,Depository Receipt,36.57,$68.36B
+SYK,Stryker Corp,Common Stock,177.77,$68.23B
+BKNG,Booking Holdings Inc,Common Stock,1670.28,$68.00B
+EL,Estee Lauder Cos Inc (The),Common Stock,187.81,$67.90B
+ISRG,Intuitive Surgical Inc,Common Stock,574.47,$67.74B
+CI,Cigna Corp,Common Stock,173.9,$66.51B
+ANTM,Anthem Inc,Common Stock,255,$66.17B
+ZTS,Zoetis Inc,Common Stock,137.68,$65.92B
+FISV,Fiserv Inc.,Common Stock,94.82,$65.45B
+CL,Colgate-Palmolive Co,Common Stock,73.32,$63.80B
+CNI,Canadian National Railway Co,Common Stock,88.88,$63.73B
+ADP,Automatic Data Processing Inc.,Common Stock,145.73,$63.65B
+D,Dominion Energy Inc,Common Stock,73.77,$63.11B
+AMD,Advanced Micro Devices Inc,Common Stock,57.255,$62.57B
+EQIX,Equinix Inc,Common Stock (REIT),728.69,$61.90B
+VMW,VMware Inc,Common Stock,147.99,$61.64B
+ATVI,Activision Blizzard Inc,Common Stock,80.64,$61.07B
+ENB,Enbridge Inc,Common Stock,29.59,$60.95B
+TJX,TJX Companies Inc (The),Common Stock,49.99,$60.94B
+CME,CME Group Inc,Common Stock,165.53,$60.12B
+GE,General Electric Co,Common Stock,6.58,$60.01B
+DUK,Duke Energy Corp,Common Stock,79.74,$59.86B
+APD,Air Products and Chemicals Inc.,Common Stock,271.6,$59.58B
+TGT,Target Corp,Common Stock,117.9,$58.84B
+UBER,Uber Technologies Inc,Common Stock,33.15,$58.69B
+NTES,Netease Inc,Depository Receipt,483.26,$58.57B
+SQ,Square Inc,Common Stock,129.39,$58.51B
+CB,Chubb Ltd,Common Stock,124.34,$57.71B
+SE,Sea Ltd,Depository Receipt,123.05,$57.66B
+AMAT,Applied Materials Inc.,Common Stock,63.49,$57.53B
+PBR,Petroleo Brasileiro S.A.- Petrobras,Depository Receipt,8.53,$57.13B
+ECL,Ecolab Inc.,Common Stock,197.5,$56.91B
+SO,Southern Co (The),Common Stock,51.94,$56.03B
+PBR/A,Petroleo Brasileiro S.A.- Petrobras,Depository Receipt,8.32,$55.50B
+MU,Micron Technology Inc.,Common Stock,49.98,$55.28B
+VALE,Vale SA,Depository Receipt,10.63,$55.20B
+MMC,Marsh & McLennan Companies Inc,Common Stock,108.23,$55.19B
+MCO,Moody's Corp.,Common Stock,294.29,$55.17B
+ITW,Illinois Tool Works Inc.,Common Stock,173.29,$55.07B
+SNP,China Petroleum & Chemical Corp Sinopec,Depository Receipt,44.59,$54.72B
+HEINY,Heineken NV,Depository Receipt,47.03,$54.72B
+ILMN,Illumina Inc,Common Stock,372.6,$54.37B
+USB,U.S. Bancorp,Common Stock,34.22,$53.48B
+ADSK,Autodesk Inc.,Common Stock,248.2,$53.46B
+SHW,Sherwin-Williams Co (The),Common Stock,579.69,$53.22B
+CSX,CSX Corp,Common Stock,67.86,$52.89B
+RTX,Raytheon Technologies Corp,Common Stock,58.11,$52.84B
+ABB,ABB Ltd,Depository Receipt,24.24,$52.51B
+BNPQY,BNP Paribas,Depository Receipt,20.085,$52.12B
+BASFY,BASF SE,Depository Receipt,14.035,$52.06B
+CEO,Cnooc Ltd,Depository Receipt,111.83,$51.53B
+ICE,Intercontinental Exchange Inc,Common Stock,92.14,$51.42B
+HUM,Humana Inc.,Common Stock,382.92,$51.03B
+NEM,Newmont Corporation,Common Stock,62.73,$50.87B
+MELI,MercadoLibre Inc,Common Stock,1018.41,$50.46B
+GPN,Global Payments Inc.,Common Stock,164.16,$50.36B
+NOC,Northrop Grumman Corp,Common Stock,285.95,$50.31B
+SPOT,Spotify Technology S.A,Common Stock,274.79,$50.07B
+PCGU,PG&E Corp,Unit Trust Fund,92.35,$50.06B

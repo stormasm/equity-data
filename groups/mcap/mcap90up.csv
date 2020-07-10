@@ -1,0 +1,94 @@
+Symbol,Company Name,Security Type,Security Price,Market Capitalization
+AAPL,Apple Inc,Common Stock,382.65,$1.65T
+MSFT,Microsoft Corp,Common Stock,214.32,$1.62T
+AMZN,Amazon.com Inc,Common Stock,3183.81,$1.54T
+GOOGL,Alphabet Inc,Common Stock,1518.38,$1.03T
+GOOG,Alphabet Inc,Common Stock,1509.41,$1.02T
+FB,Facebook Inc,Common Stock,244.575,$694.45B
+BABA,Alibaba Group Holding Ltd,Depository Receipt,261.58,$666.63B
+BRK/B,Berkshire Hathaway Inc,Common Stock,178.8,$440.32B
+V,Visa Inc,Common Stock,192.21,$416.28B
+JNJ,Johnson & Johnson,Common Stock,142.49,$377.14B
+WMT,Walmart Inc,Common Stock,127.75,$352.41B
+TSM,Taiwan Semiconductor Manufacturing Co Ltd,Depository Receipt,64.78,$324.60B
+PG,Procter & Gamble Co (The),Common Stock,122.48,$304.23B
+RHHBY,Roche Holding AG,Depository Receipt,44.5,$302.05B
+MA,Mastercard Inc,Common Stock,294.59,$301.35B
+JPM,JPMorgan Chase & Co,Common Stock,91.28,$284.29B
+UNH,Unitedhealth Group Inc,Common Stock,291.16,$282.55B
+HD,Home Depot Inc. (The),Common Stock,247.96,$268.11B
+TSLA,Tesla Inc,Common Stock,1394.28,$252.69B
+NVDA,NVIDIA Corporation,Common Stock,420.39,$251.31B
+INTC,Intel Corp,Common Stock,58.42,$248.15B
+VZ,Verizon Communications Inc,Common Stock,53.94,$229.16B
+NFLX,Netflix Inc,Common Stock,507.76,$221.11B
+ADBE,Adobe Inc,Common Stock,461.15,$219.69B
+T,AT&T Inc,Common Stock,29.54,$217.03B
+PYPL,PayPal Holdings Inc,Common Stock,183.23,$212.98B
+DIS,Walt Disney Co (The),Common Stock,116.81,$208.47B
+NVS,Novartis AG,Depository Receipt,87.34,$201.68B
+BAC,Bank of America Corp,Common Stock,22.77,$200.40B
+MRK,Merck & Co Inc.,Common Stock,76.69,$196.67B
+KO,Coca-Cola Co (The),Common Stock,43.91,$193.53B
+CSCO,Cisco Systems Inc,Common Stock,46.7,$193.32B
+PFE,Pfizer Inc,Common Stock,33.46,$187.38B
+PEP,PepsiCo Inc,Common Stock,132.7,$186.43B
+XOM,Exxon Mobil Corp,Common Stock,41.36,$182.41B
+CMCSA,Comcast Corp,Common Stock,39.3,$181.38B
+CRM,salesforce.com Inc,Common Stock,200.74,$180.05B
+SAP,SAP SE,Depository Receipt,152.67,$175.41B
+ORCL,Oracle Corp,Common Stock,57.53,$173.78B
+TM,Toyota Motor Corp,Depository Receipt,123.83,$173.45B
+ASML,ASML Holding NV,Depository Receipt,394.5,$164.54B
+ABT,Abbott Laboratories,Common Stock,93.67,$163.76B
+CVX,Chevron Corp,Common Stock,82.74,$161.21B
+NVO,Novo Nordisk A/S,Depository Receipt,65.61,$154.95B
+NKE,Nike Inc,Common Stock,96.99,$153.70B
+LLY,Eli Lilly and Co,Common Stock,166.45,$153.31B
+TMO,Thermo Fisher Scientific Inc,Common Stock,387.67,$152.70B
+CHL,China Mobile Ltd,Depository Receipt,36.17,$148.73B
+AMGN,Amgen Inc,Common Stock,251.66,$147.93B
+ABBV,AbbVie Inc,Common Stock,97.94,$146.60B
+UL,The Unilever Group,Depository Receipt,53.71,$142.85B
+AZN,Astrazeneca PLC,Depository Receipt,53.97,$142.21B
+COST,Costco Wholesale Corp,Common Stock,325.54,$139.66B
+ACN,Accenture PLC,Common Stock,219.31,$139.21B
+UN,The Unilever Group,Depository Receipt,51.96,$138.80B
+MCD,McDonald's Corp,Common Stock,184.33,$138.19B
+BMY,Bristol-Myers Squibb Co,Common Stock,58.11,$134.78B
+BHP,BHP Group Ltd,Depository Receipt,50.5,$129.22B
+SNY,Sanofi,Depository Receipt,50.55,$129.20B
+DHR,Danaher Corp,Common Stock,185.47,$128.54B
+AVGO,Broadcom Inc,Common Stock,321.5,$128.47B
+RDS/A,Royal Dutch Shell PLC,Depository Receipt,31.28,$127.78B
+NEE,NextEra Energy Inc,Common Stock,251.99,$123.85B
+MDT,Medtronic PLC,Common Stock,90.13,$122.86B
+RDS/B,Royal Dutch Shell PLC,Depository Receipt,29.51,$120.57B
+SHOP,Shopify Inc,Common Stock,1040.02,$119.25B
+TXN,Texas Instruments Inc,Common Stock,130.43,$119.11B
+AMT,American Tower Corp,Common Stock (REIT),265.6,$117.35B
+LIN,Linde Plc,Common Stock,221.95,$116.34B
+UNP,Union Pacific Corp,Common Stock,165.99,$114.70B
+PM,Philip Morris International Inc,Common Stock,70.14,$112.58B
+CHTR,Charter Communications Inc,Common Stock,530.19,$109.07B
+BBL,BHP Group Ltd,Depository Receipt,41.88,$107.41B
+PDD,Pinduoduo,Depository Receipt,90.25,$107.31B
+C,Citigroup Inc,Common Stock,49.45,$105.92B
+QCOM,QUALCOMM Inc.,Common Stock,93.29,$105.41B
+IBM,International Business Machines Corp,Common Stock,115.71,$104.51B
+HSBC/PA,HSBC Holdings PLC,Depository Receipt,25.84,$102.91B
+BUD,Anheuser-Busch InBev SA/NV,Depository Receipt,51.01,$102.69B
+LOW,Lowe's Cos Inc,Common Stock,135.61,$102.49B
+HON,Honeywell International Inc,Common Stock,141.37,$102.18B
+BA,Boeing Co,Common Stock,173.28,$101.62B
+GSK,Glaxosmithkline PLC,Depository Receipt,40.37,$101.34B
+WFC,Wells Fargo & Co,Common Stock,24.04,$100.57B
+TOT,TOTAL SA,Depository Receipt,37.18,$100.02B
+UPS,United Parcel Service Inc,Common Stock,114.45,$98.51B
+LMT,Lockheed Martin Corp,Common Stock,339.96,$97.71B
+RY,Royal Bank of Canada,Common Stock,67.16,$96.82B
+HSBC,HSBC Holdings PLC,Depository Receipt,23.52,$96.02B
+JD,JD.com Inc,Depository Receipt,67.36,$95.66B
+GILD,Gilead Sciences Inc,Common Stock,74.72,$94.81B
+RIO,Rio Tinto Group,Depository Receipt,57.96,$94.51B
+TMUS,T-Mobile US Inc,Common Stock,106.17,$91.80B
