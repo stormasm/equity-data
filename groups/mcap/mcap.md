@@ -17,5 +17,5 @@ As of Friday July 10, 2020
 |     111  | mcap30-50.csv  |
 |      90  | mcap50-90.csv  |
 |      94  | mcap90up.csv   |
-| - | - |
+| | |
 |    2276  | total          |
