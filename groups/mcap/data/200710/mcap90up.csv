@@ -1,12 +1,12 @@
 Symbol,Company Name,Security Type,Security Price,Market Capitalization
-AAPL,Apple Inc,Common Stock,382.65,$1.65T
-MSFT,Microsoft Corp,Common Stock,214.32,$1.62T
-AMZN,Amazon.com Inc,Common Stock,3183.81,$1.54T
-GOOGL,Alphabet Inc,Common Stock,1518.38,$1.03T
-GOOG,Alphabet Inc,Common Stock,1509.41,$1.02T
+AAPL,Apple Inc,Common Stock,382.65,$1650B
+MSFT,Microsoft Corp,Common Stock,214.32,$1620B
+AMZN,Amazon.com Inc,Common Stock,3183.81,$1540B
+GOOGL,Alphabet Inc,Common Stock,1518.38,$1030B
+GOOG,Alphabet Inc,Common Stock,1509.41,$1020B
 FB,Facebook Inc,Common Stock,244.575,$694.45B
 BABA,Alibaba Group Holding Ltd,Depository Receipt,261.58,$666.63B
-BRK/B,Berkshire Hathaway Inc,Common Stock,178.8,$440.32B
+BRK-B,Berkshire Hathaway Inc,Common Stock,178.8,$440.32B
 V,Visa Inc,Common Stock,192.21,$416.28B
 JNJ,Johnson & Johnson,Common Stock,142.49,$377.14B
 WMT,Walmart Inc,Common Stock,127.75,$352.41B
@@ -60,10 +60,10 @@ BHP,BHP Group Ltd,Depository Receipt,50.5,$129.22B
 SNY,Sanofi,Depository Receipt,50.55,$129.20B
 DHR,Danaher Corp,Common Stock,185.47,$128.54B
 AVGO,Broadcom Inc,Common Stock,321.5,$128.47B
-RDS/A,Royal Dutch Shell PLC,Depository Receipt,31.28,$127.78B
+RDS-A,Royal Dutch Shell PLC,Depository Receipt,31.28,$127.78B
 NEE,NextEra Energy Inc,Common Stock,251.99,$123.85B
 MDT,Medtronic PLC,Common Stock,90.13,$122.86B
-RDS/B,Royal Dutch Shell PLC,Depository Receipt,29.51,$120.57B
+RDS-B,Royal Dutch Shell PLC,Depository Receipt,29.51,$120.57B
 SHOP,Shopify Inc,Common Stock,1040.02,$119.25B
 TXN,Texas Instruments Inc,Common Stock,130.43,$119.11B
 AMT,American Tower Corp,Common Stock (REIT),265.6,$117.35B
@@ -76,7 +76,7 @@ PDD,Pinduoduo,Depository Receipt,90.25,$107.31B
 C,Citigroup Inc,Common Stock,49.45,$105.92B
 QCOM,QUALCOMM Inc.,Common Stock,93.29,$105.41B
 IBM,International Business Machines Corp,Common Stock,115.71,$104.51B
-HSBC/PA,HSBC Holdings PLC,Depository Receipt,25.84,$102.91B
+HSBC-PA,HSBC Holdings PLC,Depository Receipt,25.84,$102.91B
 BUD,Anheuser-Busch InBev SA/NV,Depository Receipt,51.01,$102.69B
 LOW,Lowe's Cos Inc,Common Stock,135.61,$102.49B
 HON,Honeywell International Inc,Common Stock,141.37,$102.18B
