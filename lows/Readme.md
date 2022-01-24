@@ -6,7 +6,7 @@ Lows on...
 * nasdaq = 13094
 * qqq = 334
 * spy = 420
-* -
+* - - - - - 
 * aapl = 154
 * msft = 276
 * goog = 2492
